@@ -1,0 +1,20 @@
+{
+  "name": "hexlet/nodejs-package",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LudmilaSokol/hexlet-js.git"
+  },
+  "author": "Sokol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LudmilaSokol/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/LudmilaSokol/hexlet-js#readme"
+}
